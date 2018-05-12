@@ -5,3 +5,8 @@
 
 ### Setting Up A WordPress Theme Folder
 [Possible Metadata Comments Available for the style.css File](https://codex.wordpress.org/Theme_Development#Theme_Stylesheet)
+
+### Adding CSS to a Theme Via the functions.php File
+[wp_enqueue_style() function](https://developer.wordpress.org/reference/functions/wp_enqueue_style/)
+
+[wp_enqueue_scripts hook](https://codex.wordpress.org/Plugin_API/Action_Reference/wp_enqueue_scripts)
