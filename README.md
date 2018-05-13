@@ -30,3 +30,8 @@
 [wp_nav_menu()](https://developer.wordpress.org/reference/functions/wp_nav_menu/)
 
 [register_nav_menus()](https://codex.wordpress.org/Function_Reference/register_nav_menus)
+
+### Coding A Basic Navigation in WordPress
+[wp_nav_menu()](https://developer.wordpress.org/reference/functions/wp_nav_menu/)
+
+[body_class()](https://developer.wordpress.org/reference/functions/body_class/)
