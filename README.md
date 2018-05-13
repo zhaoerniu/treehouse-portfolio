@@ -20,3 +20,6 @@
 
 ### An Explanation of the WordPress Loop
 [The Loop](https://codex.wordpress.org/The_Loop)
+
+### Common WordPress Functions Used with the Loop
+[The Codex Function Reference](https://codex.wordpress.org/Function_Reference)
