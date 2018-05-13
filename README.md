@@ -23,3 +23,10 @@
 
 ### Common WordPress Functions Used with the Loop
 [The Codex Function Reference](https://codex.wordpress.org/Function_Reference)
+
+### The wp_nav_menu Function
+[add_theme_support()](https://developer.wordpress.org/reference/functions/add_theme_support/)
+
+[wp_nav_menu()](https://developer.wordpress.org/reference/functions/wp_nav_menu/)
+
+[register_nav_menus()](https://codex.wordpress.org/Function_Reference/register_nav_menus)
