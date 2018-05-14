@@ -46,7 +46,6 @@
 ## Coding Your Own Custom Post Type Templates
 ### Codex Reference:
 [register_post_type()](https://codex.wordpress.org/Function_Reference/register_post_type)
-
 ### Plugins Used:
 [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
 
@@ -61,3 +60,11 @@
 [the_permalink()](https://codex.wordpress.org/Function_Reference/the_permalink)
 
 [the_post_thumbnail()](https://developer.wordpress.org/reference/functions/the_post_thumbnail/)
+
+## The Portfolio Single Page
+### Advanced Custom Fields Reference:
+[the_field()](https://www.advancedcustomfields.com/resources/the_field/)
+### Codex Reference:
+[previous_post_link()](https://codex.wordpress.org/Function_Reference/previous_post_link)
+
+[next_post_link()](https://codex.wordpress.org/Function_Reference/next_post_link)
