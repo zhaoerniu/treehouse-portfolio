@@ -51,3 +51,7 @@
 [Advanced Custom Fields](https://wordpress.org/plugins/advanced-custom-fields/)
 
 [Custom Post Types UI](https://wordpress.org/plugins/custom-post-type-ui/)
+
+## The WP_Query Function
+### Codex Reference:
+[WP_Query()](https://codex.wordpress.org/Class_Reference/WP_Query)
