@@ -55,3 +55,9 @@
 ## The WP_Query Function
 ### Codex Reference:
 [WP_Query()](https://codex.wordpress.org/Class_Reference/WP_Query)
+
+## The Portfolio Homepage
+### Codex Reference:
+[the_permalink()](https://codex.wordpress.org/Function_Reference/the_permalink)
+
+[the_post_thumbnail()](https://developer.wordpress.org/reference/functions/the_post_thumbnail/)
