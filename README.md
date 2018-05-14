@@ -68,3 +68,21 @@
 [previous_post_link()](https://codex.wordpress.org/Function_Reference/previous_post_link)
 
 [next_post_link()](https://codex.wordpress.org/Function_Reference/next_post_link)
+
+## Coding the Blog Homepage
+### Codex Reference:
+[the_excerpt()](https://developer.wordpress.org/reference/functions/the_excerpt/)
+
+[get_avatar()](https://codex.wordpress.org/Function_Reference/get_avatar)
+
+[get_the_author_meta()](https://developer.wordpress.org/reference/functions/get_the_author_meta/)
+
+[the_author_posts_link()](https://codex.wordpress.org/Function_Reference/the_author_posts_link)
+
+[the_category()](https://codex.wordpress.org/Function_Reference/the_category)
+
+[the_date()](https://codex.wordpress.org/Function_Reference/the_date)
+
+[the_time()](https://codex.wordpress.org/Function_Reference/the_time)
+
+[the_post_thumbnail()](https://developer.wordpress.org/reference/functions/the_post_thumbnail/)
