@@ -90,3 +90,7 @@
 ## Adding Comments to a Template
 ### Codex Reference:
 [comments_template()](https://developer.wordpress.org/reference/functions/comments_template/)
+
+## A Static Homepage Template
+### Codex Reference:
+[is_front_page()](https://codex.wordpress.org/Function_Reference/is_front_page)
