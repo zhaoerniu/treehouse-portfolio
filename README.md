@@ -86,3 +86,7 @@
 [the_time()](https://codex.wordpress.org/Function_Reference/the_time)
 
 [the_post_thumbnail()](https://developer.wordpress.org/reference/functions/the_post_thumbnail/)
+
+## Adding Comments to a Template
+### Codex Reference:
+[comments_template()](https://developer.wordpress.org/reference/functions/comments_template/)
