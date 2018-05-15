@@ -100,3 +100,7 @@
 [register_sidebar()](https://codex.wordpress.org/Function_Reference/register_sidebar)
 [get_sidebar()](https://developer.wordpress.org/reference/functions/get_sidebar/)
 [dynamic_sidebar()](https://codex.wordpress.org/Function_Reference/dynamic_sidebar)
+
+## Adding Shortcodes to Your Theme
+### Plugin Reference:
+[Easy Foundations Shortcode](https://wordpress.org/plugins/easy-foundation-shortcodes/)
