@@ -35,7 +35,7 @@
 
           <?php endwhile; else : ?>
 
-          <p><?php esc_html_e( 'Sorry, no pages found.' ); ?></p>
+          <p><?php esc_html_e( 'Sorry, no posts found.', 'treehouse-portfolio' ); ?></p>
           
           <?php endif; ?>   
 

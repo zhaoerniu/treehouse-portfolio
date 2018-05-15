@@ -104,3 +104,16 @@
 ## Adding Shortcodes to Your Theme
 ### Plugin Reference:
 [Easy Foundations Shortcode](https://wordpress.org/plugins/easy-foundation-shortcodes/)
+
+## Testing Your WordPress Theme
+### Codex Reference:
+[Theme Development Checklist](https://codex.wordpress.org/Theme_Development_Checklist)
+
+[Theme Development](https://codex.wordpress.org/Theme_Development)
+
+[Theme Unit Test](https://codex.wordpress.org/Theme_Unit_Test)
+
+[Theme Review for Submitting to WordPress.org](https://make.wordpress.org/themes/handbook/review/)
+
+### Plugin Reference:
+[Theme Check Plugin](https://wordpress.org/plugins/theme-check/)

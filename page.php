@@ -11,7 +11,7 @@
 
     <?php endwhile; else : ?>
 
-  	<p><?php esc_html_e( 'Sorry, no pages found.' ); ?></p>
+  	<p><?php esc_html_e( 'Sorry, no page found.', 'treehouse-portfolio' ); ?></p>
     
     <?php endif; ?>   
 
